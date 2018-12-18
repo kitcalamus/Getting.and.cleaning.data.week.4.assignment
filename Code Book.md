@@ -89,6 +89,6 @@ The data set were grouped based on the 30 Subjects and 6 Activities and hence, a
 
 #Variable Type
 
-Subject: Numeric
-Activity: Factor
-Others: Numeric
+1. Subject: Numeric
+2. Activity: Factor
+3. Others: Numeric
