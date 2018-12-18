@@ -88,6 +88,7 @@ The data set were grouped based on the 30 Subjects and 6 Activities and hence, a
 [68] "fBodyBodyGyroJerkMagStandardDeviation"
 
 #Variable Type
+
 Subject: Numeric
 Activity: Factor
 Others: Numeric
